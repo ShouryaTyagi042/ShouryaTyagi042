@@ -4,8 +4,13 @@
 ---
 Hello everyone, I am a student currently pursuing my BTech from NIT Kurukshetra. I love to do programming and to create projects. Currently learning Android Developlment. 
 
-Connect to me
+Connect with me
 ---
+[![website](./img/icons8-twitter.svg)](https://twitter.com/ShouryaTyagi14)
+&nbsp;&nbsp;
+[![website](./img/icons8-linkedin.svg)](https://www.linkedin.com/in/shourya-tyagi-2b79a5194/)
+
+&nbsp;&nbsp;
 
 
 <!---

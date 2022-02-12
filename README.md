@@ -1,4 +1,4 @@
-#👋 Hi, I’m Shourya Tyagi
+👋 Hi, I’m Shourya Tyagi
 ---
 ![Github ](https://user-images.githubusercontent.com/81747739/153707521-66a704a6-e979-43fa-9d7c-10843e3252e0.png)
 

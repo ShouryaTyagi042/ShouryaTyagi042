@@ -3,7 +3,7 @@
 
 👋 Hi, I’m Shourya Tyagi
 ---
-Hello everyone, I am a student currently pursuing my BTech from NIT Kurukshetra. I love to do programming and to create projects. Currently learning Android Developlment. 
+Hello everyone, I am a student currently pursuing my BTech from NIT Kurukshetra. I love to do programming and to create projects. Currently learning JavaScript. 
 
 Connect with me
 ---

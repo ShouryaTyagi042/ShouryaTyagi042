@@ -3,7 +3,8 @@
 
 👋 Hi, I’m Shourya Tyagi
 ---
-Hello everyone, I am a student currently pursuing my BTech from NIT Kurukshetra. I love to do programming and to create projects. Currently learning JavaScript. 
+Born and brought up in Faridabad, Haryana, India. I am constantly surrounded by Tech and fond of it. I started learning to program when I was in my high school and fell in love with it. Java is the language I adore. Trying to be better than yesterday is my motto. 
+I am skilled at Java, JavaScript, C++, AndroidStudio. I created few android apps and pushed to my GitHub.
 
 Connect with me
 ---
@@ -13,7 +14,7 @@ Connect with me
 &nbsp;&nbsp;
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shourya-tyagi&theme=dark" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaTyagi042&theme=dark" width="48%">
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ShouryaTyagi042&show_icons=true&theme=tokyonight&count_private=true " alt="github stats" width="45%">

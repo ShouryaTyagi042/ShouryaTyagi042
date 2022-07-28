@@ -1,5 +1,6 @@
 
-![Untitled3_20220212200212](https://user-images.githubusercontent.com/81747739/153715805-82205aeb-c85d-40b7-8605-bd16337481d4.png)
+![Untitled3_20220728182921](https://user-images.githubusercontent.com/81747739/181511373-f8d5d055-c49e-4108-8a59-e1cc787ec457.png)
+
 
 👋 Hi, I’m Shourya Tyagi
 ---

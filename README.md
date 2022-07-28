@@ -12,6 +12,13 @@ Connect with me
 [![website](./img/icons8-linkedin.svg)](https://www.linkedin.com/in/shourya-tyagi-2b79a5194/)
 &nbsp;&nbsp;
 
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shourya-tyagi&theme=dark" width="48%">
+
+### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ShouryaTyagi042&show_icons=true&theme=tokyonight&count_private=true " alt="github stats" width="45%">
+
+
 
 <!---
 ShouryaTyagi042/ShouryaTyagi042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

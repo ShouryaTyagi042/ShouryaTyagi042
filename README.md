@@ -17,8 +17,7 @@ Connect with me
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaTyagi042&theme=dark" width="48%">
 
-### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ShouryaTyagi042&show_icons=true&theme=tokyonight&count_private=true " alt="github stats" width="45%">
+
 
 
 

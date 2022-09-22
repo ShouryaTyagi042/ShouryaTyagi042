@@ -54,9 +54,6 @@ Connect with me
 
 </div>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
 
 

@@ -41,7 +41,7 @@
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaTyagi042&hide=tex&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaTyagi042&theme=dark" width="42%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaTyagi042&theme=dark" width="48%">
 
 <div align='center'>
   

@@ -2,27 +2,25 @@
 ![Untitled3_20220728182921](https://user-images.githubusercontent.com/81747739/181511373-f8d5d055-c49e-4108-8a59-e1cc787ec457.png)
 
 
-
-
+   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gmgmg5ni8eb5s2be7vvow6zgl4knzqrnuzpflfki&rid=giphy.gif&ct=g" width="35%" align ="right" >
 
         
-##    I'm an Android  and Web Developer.
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm an Android  and Web Developer.
  - Born and brought up in Faridabad, Haryana, India. 
  - I am constantly surrounded by Tech and fond of it. 
- - I started learning to program when I was in my high school and fell in love with it.
+ - I started learning to program when I was in my high school \
+   and fell in love with it.
  - Programming + Songs = LIFE 
 
 <!-- <p align="right">
    <img  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gmgmg5ni8eb5s2be7vvow6zgl4knzqrnuzpflfki&rid=giphy.gif&ct=g" />
    </p> -->
- <h4 align="center">
-   <i>⚡️Be better than yesterday⚡️</i>
-  </h4>
+
  <br />
 
-<p align="center">
-   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gmgmg5ni8eb5s2be7vvow6zgl4knzqrnuzpflfki&rid=giphy.gif&ct=g" >
-   </p>
+
+
+
    
    
 <br />
@@ -63,6 +61,9 @@
 
 
 
+ <h3 align="center">
+   <i>⚡️Be better than yesterday⚡️</i>
+  </h3>
 
   
 Connect with me

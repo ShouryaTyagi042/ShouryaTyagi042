@@ -18,10 +18,21 @@
  <h4 align="center">
    <i>⚡️Be better than yesterday⚡️</i>
   </h4>
-
-### Languages and Tools...
+ <br />
 
 <p align="center">
+   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gmgmg5ni8eb5s2be7vvow6zgl4knzqrnuzpflfki&rid=giphy.gif&ct=g" >
+   </p>
+   
+   
+<br />
+
+<h2 align ='center'> Languages and Tools </h2>
+
+
+<p align="center">
+ 
+ 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
  
 
@@ -39,11 +50,20 @@
 
 </p>
 
-## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaTyagi042&hide=tex&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaTyagi042&theme=dark" width="48%">
 
 <div align='center'>
+
+## Github Stats
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaTyagi042&hide=tex&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp; &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaTyagi042&theme=dark" width="421px" margin="50px">
+
+
+
+
   
 Connect with me
 ---

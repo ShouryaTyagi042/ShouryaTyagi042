@@ -5,7 +5,7 @@
    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gmgmg5ni8eb5s2be7vvow6zgl4knzqrnuzpflfki&rid=giphy.gif&ct=g" width="35%" align ="right" >
 
         
-##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm an Android  and Web Developer.
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm an Mobile and Web Developer.
  - Born and brought up in Faridabad, Haryana, India. 
  - I am constantly surrounded by Tech and fond of it. 
  - I started learning to program when I was in my high school \

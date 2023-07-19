@@ -45,6 +45,12 @@
  <img src="https://user-images.githubusercontent.com/81747739/191831752-89958a71-c8d7-4c16-9195-5b8e748d260d.png" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/81747739/194595195-a67ff6de-9f50-45e0-8dca-3408c14dcf4e.png" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/81747739/194595471-901bf350-c44d-446c-8074-9401c4e0ba53.png" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ShouryaTyagi042/ShouryaTyagi042/assets/81747739/e18a1de7-5d13-476e-be20-3fdd6047284b" style="vertical-align:top; margin:4px ; width:40px">
+ <img src="https://github.com/ShouryaTyagi042/ShouryaTyagi042/assets/81747739/398ea40f-c573-4f90-8eac-c74d2efa46fe" style="vertical-align:top; margin:4px ; width:60px">
+ <img src="https://github.com/ShouryaTyagi042/ShouryaTyagi042/assets/81747739/7bbdeff4-5028-4c62-b63e-d9364a857a6f" style="vertical-align:top; margin:4px ; width:50px">
+ 
+
+
 
 
 

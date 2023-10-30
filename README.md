@@ -65,7 +65,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaTyagi042&hide=tex&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp; &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShouryaTyagi042&theme=dark" width="421px" margin="50px">
+
 
 
 

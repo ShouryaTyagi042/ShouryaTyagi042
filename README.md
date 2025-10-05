@@ -1,11 +1,10 @@
 
-![Untitled3_20220728182921](https://user-images.githubusercontent.com/81747739/181511373-f8d5d055-c49e-4108-8a59-e1cc787ec457.png)
 
 
    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gmgmg5ni8eb5s2be7vvow6zgl4knzqrnuzpflfki&rid=giphy.gif&ct=g" width="35%" align ="right" >
 
         
-##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm a Mobile and Web Developer.
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm a full stack developer.
  - Born and brought up in Faridabad, Haryana, India. 
  - I am constantly surrounded by Tech and fond of it. 
  - I started learning to program when I was in my high school \
